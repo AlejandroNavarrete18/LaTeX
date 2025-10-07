@@ -1,0 +1,59 @@
+% =================================================================
+% CONFIGURACIÓN DE DOCUMENTO Y LENGUAJE
+% =================================================================
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+
+\usepackage{graphicx} % Necesario para incluir imágenes
+\usepackage{amsmath,mathtools} % Paquetes matemáticos
+\usepackage{amsfonts} % Necesario para los comandos \mathfrak
+\usepackage{float} % Mejor control sobre la posición de las figuras
+\usepackage[none]{hyphenat} % Deshabilita la separación de sílabas (opcional)
+
+% =================================================================
+% CONFIGURACIÓN DE PÁGINA Y MÁRGENES (GEOMETRY)
+% =================================================================
+\usepackage[papersize={216mm,271mm},tmargin=20mm,bmargin=20mm,
+lmargin=20mm,rmargin=20mm]{geometry}
+
+% =================================================================
+% CONFIGURACIÓN DE BIBLIOGRAFÍA (BIBLATEX)
+% =================================================================
+\usepackage[backend=biber]{biblatex}
+\bibliography{referencias} % El nombre de tu archivo .bib
+
+% =================================================================
+% CONFIGURACIÓN DE DIBUJO Y DIAGRAMAS (TIKZ)
+% =================================================================
+\usepackage{tikz}
+% Todas las librerías necesarias para tus diagramas (incluyendo las de TikZ y TikZ-Circuit)
+\usetikzlibrary{mindmap}
+\usetikzlibrary{shapes.geometric, positioning} 
+\usetikzlibrary{shapes,arrows}
+\usepackage{tikz-cd} % Para diagramas conmutativos
+
+\usepackage{circuitikz}
+\ctikzset{bipoles/thickness=1.2}
+
+\usepackage{pgfplots}
+\pgfplotsset{width=10cm,compat=newest}
+
+% =================================================================
+% CONFIGURACIÓN DE ENCABEZADOS Y PIES DE PÁGINA (FANCYHDR)
+% Adaptada para poner el número de página a la derecha y el texto a la izquierda
+% =================================================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{} % Limpia todos los encabezados
+\fancyfoot{} % Limpia todos los pies de página
+
+% ENCABEZADO DERECHO: Número de página (ej. 7)
+\fancyhead[R]{\thepage} 
+
+% ENCABEZADO IZQUIERDO: Texto "SYSTEM" (o lo que desees)
+\fancyhead[L]{SYSTEM} 
+
+% Elimina la línea de encabezado (headrule) para un estilo más limpio
+\renewcommand{\headrulewidth}{0pt} 
+
+% FIN DE LA CONFIGURACIÓN
