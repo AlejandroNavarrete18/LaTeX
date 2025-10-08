@@ -3,9 +3,10 @@
 % =================================================================
 \usepackage[spanish]{babel}
 \usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc} % <- AÑADE ESTA LÍNEA
 
 \usepackage{graphicx} % Necesario para incluir imágenes
-\usepackage{amsmath,mathtools} % Paquetes matemáticos
+\usepackage{amsmath, mathtools, amssymb} % Paquetes matemáticos
 \usepackage{amsfonts} % Necesario para los comandos \mathfrak
 \usepackage{float} % Mejor control sobre la posición de las figuras
 \usepackage[none]{hyphenat} % Deshabilita la separación de sílabas (opcional)
@@ -17,10 +18,10 @@
 lmargin=20mm,rmargin=20mm]{geometry}
 
 % =================================================================
-% CONFIGURACIÓN DE BIBLIOGRAFÍA (BIBLATEX)
+% CONFIGURACIÓN DE BIBLIOGRAFÍA (BIBLATEX) - COMENTADA TEMPORALMENTE
 % =================================================================
-\usepackage[backend=biber]{biblatex}
-\bibliography{referencias} % El nombre de tu archivo .bib
+%\usepackage[backend=biber]{biblatex} % <- COMENTA ESTA LÍNEA
+%\bibliography{referencias} % <- COMENTA ESTA LÍNEA
 
 % =================================================================
 % CONFIGURACIÓN DE DIBUJO Y DIAGRAMAS (TIKZ)
@@ -44,8 +45,7 @@ lmargin=20mm,rmargin=20mm]{geometry}
 % =================================================================
 \usepackage{fancyhdr}
 \pagestyle{fancy}
-\fancyhead{} % Limpia todos los encabezados
-\fancyfoot{} % Limpia todos los pies de página
+\fancyhf{} % <- CAMBIA ESTO: Limpia todos los encabezados y pies de página
 
 % ENCABEZADO DERECHO: Número de página (ej. 7)
 \fancyhead[R]{\thepage} 
