@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.6)  8 OCT 2025 21:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.6)  8 OCT 2025 23:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -648,119 +648,121 @@ Package pgfplots notification 'compat/show suggested version=true': document has
 \openout2 = `introduccion.aux'.
 
 (introduccion.tex
-Overfull \hbox (9.89333pt too wide) in paragraph at lines 18--23
-\T1/cmr/m/n/14.4 Lla-ma-re-mos \T1/cmr/bx/n/14.4 sis-te-mis-mo \T1/cmr/m/n/14.4 a es-te con-jun-to de teo-rías que se cen-tran en las ca-rac-te-rís-ti-cas
+Overfull \hbox (5.07664pt too wide) in paragraph at lines 20--21
+\T1/cmr/m/it/14.4 sis-te-mis-mo \T1/cmr/m/n/14.4 a es-te con-jun-to de teo-rías que se cen-tran en las ca-rac-te-rís-ti-cas es-truc-tu-ra-les
  []
 
 
-Overfull \hbox (27.79515pt too wide) in paragraph at lines 18--23
-\T1/cmr/m/n/14.4 par-te ar-ti-fi-cia-les^^V en-tre las dis-ci-pli-nas. El sis-te-mis-mo tie-ne dos mo-ti-va-cio-nes re-la-cio-na-das:
+Overfull \hbox (5.75066pt too wide) in paragraph at lines 20--21
+\T1/cmr/m/n/14.4 de los sis-te-mas y, por tan-to, pue-den atra-ve-sar las ba-rre-ras ^^Ven gran par-te ar-ti-fi-cia-les^^V
  []
 
-[1{C:/Users/jesus/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+Overfull \hbox (4.42892pt too wide) in paragraph at lines 22--26
+\T1/cmr/m/n/14.4 La mo-ti-va-ción cog-ni-ti-va o teó-ri-ca del sis-te-mis-mo es, por su-pues-to, el de-seo de des-cu-brir
+ []
+
+[1
 
 
-]
+{C:/Users/jesus/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
 LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 28.
+(Font)              size <17.28> substituted on input line 33.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 28.
+(Font)              size <17.28> substituted on input line 33.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 33.
-
-
-LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <13> not available
 (Font)              size <12> substituted on input line 38.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/m/it' in size <13> not available
-(Font)              size <12> substituted on input line 39.
-
-
-Overfull \hbox (14.99574pt too wide) in paragraph at lines 41--43
-\T1/cmr/m/n/12 par-ti-cu-lar-men-te en res-tar im-por-tan-cia a las pe-cu-lia-ri-da-des de los com-po-nen-tes del sis-te-ma con-si-de-ra-do.
- []
+(Font)              size <12> substituted on input line 43.
 
 [2]
-Overfull \hbox (10.27821pt too wide) in paragraph at lines 61--62
-[]\T1/cmr/m/n/12 La \T1/cmr/bx/n/12 sis-te-mo-lo-gía\T1/cmr/m/n/12 , o teo-ría ge-ne-ral de sis-te-mas, es un cam-po de in-ves-ti-ga-ción cien-tí-fi-ca y tec-no-ló-gi-ca
+Overfull \hbox (0.40842pt too wide) in paragraph at lines 68--69
+[]\T1/cmr/m/n/12 La \T1/cmr/m/it/12 sis-te-mo-lo-gía\T1/cmr/m/n/12 , o teo-ría ge-ne-ral de sis-te-mas, es un cam-po de in-ves-ti-ga-ción cien-tí-fi-ca y tec-no-ló-gi-ca
  []
 
 
-Overfull \hbox (15.42702pt too wide) in paragraph at lines 61--62
+Overfull \hbox (15.42702pt too wide) in paragraph at lines 68--69
 \T1/cmr/m/n/12 y de con-si-de-ra-ble in-te-rés pa-ra la fi-lo-so-fía. De-bi-do a su ge-ne-ra-li-dad, tie-ne una su-per-po-si-ción con-si-de-ra-ble
  []
 
 
-Overfull \hbox (30.33366pt too wide) in paragraph at lines 61--62
+Overfull \hbox (30.33366pt too wide) in paragraph at lines 68--69
 \T1/cmr/m/n/12 co-mo los on-tó-lo-gos es-tán in-tere-sa-dos en las pro-pie-da-des co-mu-nes a to-dos los sis-te-mas, in-de-pen-dien-te-men-te
  []
 
 [3]
 
-LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <18> not available
-(Font)              size <17.28> substituted on input line 80.
+LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <13> not available
+(Font)              size <12> substituted on input line 88.
 
 
-LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <18> not available
-(Font)              size <17.28> substituted on input line 80.
-
-
-Overfull \hbox (14.06355pt too wide) in paragraph at lines 88--89
-\T1/cmr/m/n/12 el com-por-ta-mien-to de ca-da uno es \T1/cmr/bx/n/12 in-de-pen-dien-te \T1/cmr/m/n/12 del com-por-ta-mien-to de los de-más. En con-se-cuen-cia,
+Overfull \hbox (2.47476pt too wide) in paragraph at lines 96--97
+\T1/cmr/m/n/12 el com-por-ta-mien-to de ca-da uno es \T1/cmr/m/it/12 in-de-pen-dien-te \T1/cmr/m/n/12 del com-por-ta-mien-to de los de-más. En con-se-cuen-cia,
  []
 
 [4]
-LaTeX Font Info:    Calculating math sizes for size <13> on input line 106.
+LaTeX Font Info:    Calculating math sizes for size <13> on input line 116.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 106.
+(Font)              size <12> substituted on input line 116.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.5> not available
-(Font)              size <6> substituted on input line 106.
+(Font)              size <6> substituted on input line 116.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13> not available
-(Font)              size <12> substituted on input line 106.
+(Font)              size <12> substituted on input line 116.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <6.5> not available
-(Font)              size <6> substituted on input line 106.
+(Font)              size <6> substituted on input line 116.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 106.
+(Font)              size <12> substituted on input line 116.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
-(Font)              size <6> substituted on input line 106.
+(Font)              size <6> substituted on input line 116.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 106.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 116.
 (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 106.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 116.
  (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [5] [6] [7]
-Overfull \hbox (5.1959pt too wide) in paragraph at lines 202--203
+) [5]
+Overfull \hbox (5.60219pt too wide) in paragraph at lines 139--141
+\T1/cmr/m/n/12 Introduzcamos a con-ti-nua-ción el con-cep-to de \T1/cmr/m/it/12 víncu-lo\T1/cmr/m/n/12 , \T1/cmr/m/it/12 co-ne-xión \T1/cmr/m/n/12 o \T1/cmr/m/it/12 aco-pla-mien-to \T1/cmr/m/n/12 en-tre los com-po-nen-tes
+ []
+
+
+Overfull \hbox (7.73523pt too wide) in paragraph at lines 146--147
+[]\T1/cmr/m/n/12 El \T1/cmr/m/it/12 en-la-ce \T1/cmr/m/n/12 (bon-da-ge) de un con-jun-to $\OML/cmm/m/it/12 A \OMS/cmsy/m/n/12 ^^R T$ \T1/cmr/m/n/12 de co-sas es el con-jun-to $\OML/cmm/m/it/12 B[]$ \T1/cmr/m/n/12 de víncu-los (o aco-pla-mien-tos
+ []
+
+[6] [7]
+Overfull \hbox (5.1959pt too wide) in paragraph at lines 216--217
 []\T1/cmr/m/n/12 Un co-no-ci-mien-to exhaus-ti-vo de un sis-te-ma com-pren-de-ría los si-guien-tes pun-tos: (a) la com-po-si-ción,
  []
 
 
-Overfull \hbox (10.27138pt too wide) in paragraph at lines 203--205
+Overfull \hbox (10.27138pt too wide) in paragraph at lines 217--219
 \T1/cmr/m/n/12 de un sis-te-ma. Por lo tan-to, com-ple-men-ta-re-mos el mo-de-lo mí-ni-mo an-te-rior con un mo-de-lo cuan-ti-ta-ti-vo
  []
 
 [8]
-Overfull \hbox (1.15007pt too wide) in paragraph at lines 229--230
+Overfull \hbox (1.15007pt too wide) in paragraph at lines 245--246
 \T1/cmr/m/n/12 so-bre la co-sa de in-te-rés. Es-te \T1/cmr/bx/n/12 en-torno in-me-dia-to \T1/cmr/m/n/12 o \T1/cmr/bx/n/12 me-dio \T1/cmr/m/n/12 es la cé-lu-la en el ca-so de los cro-mo-so-mas,
  []
 
@@ -768,7 +770,7 @@ Overfull \hbox (1.15007pt too wide) in paragraph at lines 229--230
 \openout2 = `11-20.aux'.
 
  (11-20.tex
-Overfull \hbox (5.1874pt too wide) in paragraph at lines 9--10
+Overfull \hbox (5.1874pt too wide) in paragraph at lines 11--12
 []\T1/cmr/m/n/12 ... tie-nen una \T1/cmr/bx/n/12 con-fi-gu-ra-ción es-pa-cial\T1/cmr/m/n/12 , ya que es-tán com-pues-tos por se-res vi-vos que se en-cuen-tran
  []
 
@@ -777,67 +779,67 @@ Overfull \hbox (5.1874pt too wide) in paragraph at lines 9--10
 
 
 ]
-Overfull \hbox (46.7563pt too wide) in paragraph at lines 45--46
+Overfull \hbox (46.7563pt too wide) in paragraph at lines 50--51
 []\T1/cmr/m/n/12 Desde nues-tro pun-to de vis-ta, no exis-te tal co-sa co-mo una \T1/cmr/bx/n/12 je-rar-quía de es-truc-tu-ras\T1/cmr/m/n/12 . (Eti-mo-ló-gi-ca-men-te,
  []
 
 [12]
-Overfull \hbox (0.52945pt too wide) in paragraph at lines 75--76
+Overfull \hbox (0.52945pt too wide) in paragraph at lines 81--82
 []\T1/cmr/m/n/12 Intentemos re-me-diar es-ta si-tua-ción acla-ran-do un con-cep-to de \T1/cmr/bx/n/12 ni-vel \T1/cmr/m/n/12 y el con-cep-to co-rres-pon-dien-te
  []
 
 
 LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <6.5> not available
-(Font)              size <6> substituted on input line 83.
+(Font)              size <6> substituted on input line 89.
 
-LaTeX Font Info:    Trying to load font information for U+euf on input line 84.
+LaTeX Font Info:    Trying to load font information for U+euf on input line 90.
 (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ueuf.fd
 File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
 ) [13] [14] [15]
-Overfull \hbox (1.02078pt too wide) in paragraph at lines 149--150
+Overfull \hbox (1.02078pt too wide) in paragraph at lines 159--160
 []\T1/cmr/m/n/12 Tales con-fu-sio-nes y afir-ma-cio-nes exa-ge-ra-das, que per-sis-ten de-bi-do a una in-su-fi-cien-te in-ves-ti-ga-ción
  []
 
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 209--210
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
 
  []
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <13> not available
-(Font)              size <12> substituted on input line 212.
+(Font)              size <12> substituted on input line 224.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <6.5> not available
-(Font)              size <6> substituted on input line 212.
+(Font)              size <6> substituted on input line 224.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--214
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 215--221
+Underfull \hbox (badness 10000) in paragraph at lines 223--226
 
  []
 
 
-Overfull \hbox (7.1087pt too wide) in paragraph at lines 215--221
+Underfull \hbox (badness 10000) in paragraph at lines 227--232
+
+ []
+
+
+Overfull \hbox (7.1087pt too wide) in paragraph at lines 227--232
 \T1/cmr/m/n/12 Hasta aho-ra he-mos re-pre-sen-ta-do la com-po-si-ción y la \T1/cmr/bx/n/12 es-truc-tu-ra in-ter-na \T1/cmr/m/n/12 de un sis-te-ma, des-cui-dan-do
  []
 
 [17]
-Overfull \hbox (8.24843pt too wide) in paragraph at lines 238--241
+Overfull \hbox (8.24843pt too wide) in paragraph at lines 252--255
 []\T1/cmr/m/n/12 Generalizamos lo an-te-rior en la si-guien-te asun-ción se-mán-ti-ca. Sea $\OML/cmm/m/it/12 ^^[$ \T1/cmr/m/n/12 un sis-te-ma con $\OML/cmm/m/it/12 m$ \T1/cmr/m/n/12 com-po-nen-tes
  []
 
 [18]
-Overfull \hbox (1.4393pt too wide) in paragraph at lines 261--263
+Overfull \hbox (1.4393pt too wide) in paragraph at lines 277--279
 \T1/cmr/m/n/12 aco-pla-mien-to com-ple-ta) de tal sis-te-ma, de-be-mos res-trin-gir nues-tra aten-ción a su \T1/cmr/bx/n/12 com-por-ta-mien-to\T1/cmr/m/n/12 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--273
+Underfull \hbox (badness 10000) in paragraph at lines 286--289
 
  []
 
@@ -849,97 +851,97 @@ Underfull \hbox (badness 10000) in paragraph at lines 270--273
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 37--45
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--45
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
 
  []
 
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 59--79
+Underfull \hbox (badness 10000) in paragraph at lines 66--85
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--79
+Underfull \hbox (badness 10000) in paragraph at lines 66--85
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--79
+Underfull \hbox (badness 10000) in paragraph at lines 66--85
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--79
+Underfull \hbox (badness 10000) in paragraph at lines 66--85
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--79
+Underfull \hbox (badness 10000) in paragraph at lines 66--85
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--79
+Underfull \hbox (badness 10000) in paragraph at lines 66--85
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--79
+Underfull \hbox (badness 10000) in paragraph at lines 66--85
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--79
+Underfull \hbox (badness 10000) in paragraph at lines 66--85
 
  []
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 88--91
+Underfull \hbox (badness 10000) in paragraph at lines 97--100
 
  []
 
 
-Overfull \hbox (6.90411pt too wide) in paragraph at lines 101--106
+Overfull \hbox (6.90411pt too wide) in paragraph at lines 112--116
 \T1/cmr/m/n/12 ge-ne-ra-les so-bre la na-tu-ra-le-za de las co-sas, es-ta-ble-ci-dos en el Vo-lu-men 3.) A con-ti-nua-ción, apos-ta-re-mos
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--106
+Underfull \hbox (badness 10000) in paragraph at lines 112--116
 
  []
 
 [24]
-Overfull \hbox (9.13405pt too wide) in paragraph at lines 131--132
+Overfull \hbox (9.13405pt too wide) in paragraph at lines 144--145
 []\T1/cmr/m/n/12 Una se-gun-da ca-rac-te-rís-ti-ca, igual-men-te om-ni-pre-sen-te, de los sis-te-mas con-cre-tos es que \T1/cmr/bx/n/12 reac-cio-nan
  []
 
 [25] [26] [27]
-Underfull \hbox (badness 10000) in paragraph at lines 214--217
+Underfull \hbox (badness 10000) in paragraph at lines 233--236
 
  []
 
 
-Overfull \hbox (13.75783pt too wide) in paragraph at lines 218--219
+Overfull \hbox (13.75783pt too wide) in paragraph at lines 237--238
 []\T1/cmr/bx/n/12 Observación 1 \T1/cmr/m/n/12 Los sis-te-mas na-tu-ra-les se ori-gi-nan por \T1/cmr/bx/n/12 au-to-en-sam-bla-je\T1/cmr/m/n/12 , y los sis-te-mas ar-ti-fi-cia-les,
  []
 
 
-Overfull \hbox (2.5094pt too wide) in paragraph at lines 220--221
+Overfull \hbox (2.5094pt too wide) in paragraph at lines 239--240
 []\T1/cmr/bx/n/12 Observación 2 \T1/cmr/m/n/12 Se ha-ce una ex-cep-ción pa-ra el uni-ver-so por-que (a) en las cos-mo-lo-gías na-tu-ra-lis-tas
  []
 
 [28]
-Overfull \hbox (6.70277pt too wide) in paragraph at lines 240--241
+Overfull \hbox (6.70277pt too wide) in paragraph at lines 261--262
 \T1/cmr/m/n/12 que su-gie-re que el sis-te-ma no siem-pre exis-tió, sino que \T1/cmr/bx/n/12 emer-gió \T1/cmr/m/n/12 de co-sas pre-exis-ten-tes. Cu-rio-sa-men-te,
  []
 
 [29]
-Overfull \hbox (10.04205pt too wide) in paragraph at lines 273--274
+Overfull \hbox (10.04205pt too wide) in paragraph at lines 297--298
 []\T1/cmr/bx/n/12 DEFINICIÓN 1.14 \T1/cmr/m/n/12 Las \T1/cmr/bx/n/12 pro-pie-da-des ab-so-lu-ta-men-te emer-gen-tes \T1/cmr/m/n/12 (o pri-mi-cias) que apa-re-cen
  []
 
@@ -947,12 +949,12 @@ Overfull \hbox (10.04205pt too wide) in paragraph at lines 273--274
 \openout2 = `31-40.aux'.
 
  (31-40.tex
-Underfull \hbox (badness 10000) in paragraph at lines 13--15
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--22
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
 
  []
 
@@ -961,71 +963,62 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--22
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 39--41
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
 
  []
 
 [32]
-Overfull \hbox (9.01457pt too wide) in paragraph at lines 76--78
+Overfull \hbox (9.01457pt too wide) in paragraph at lines 77--79
 []\T1/cmr/m/n/12 El au-to-en-sam-bla-je pue-de re-sul-tar en evo-lu-ción ^^Vy es-to a ni-vel mo-le-cu-lar, or-ga-nís-mi-co, po-bla-cio-nal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--78
+Underfull \hbox (badness 10000) in paragraph at lines 77--79
 
  []
 
 [33]
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--127
+Underfull \hbox (badness 10000) in paragraph at lines 126--128
 
  []
 
 
-Overfull \hbox (52.38615pt too wide) in paragraph at lines 128--129
+Overfull \hbox (52.38615pt too wide) in paragraph at lines 129--130
 []\T1/cmr/bx/n/12 DEFINICIÓN 1.18 \T1/cmr/m/n/12 Sea $\OML/cmm/m/it/12 S$ \T1/cmr/m/n/12 una fa-mi-lia de co-lec-cio-nes de sis-te-mas: $\OML/cmm/m/it/12 S \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 f\OML/cmm/m/it/12 S[][] \OMS/cmsy/m/n/12 j
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--138
+Underfull \hbox (badness 10000) in paragraph at lines 136--139
 
  []
 
-[34]
-
-LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <15> not available
-(Font)              size <14.4> substituted on input line 159.
-
-
-LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <15> not available
-(Font)              size <14.4> substituted on input line 159.
-
-[35]
-Underfull \hbox (badness 10000) in paragraph at lines 189--191
+[34] [35]
+Underfull \hbox (badness 10000) in paragraph at lines 190--192
 
  []
 
 
-Overfull \hbox (10.69353pt too wide) in paragraph at lines 196--199
+Overfull \hbox (10.69353pt too wide) in paragraph at lines 197--200
 \T1/cmr/m/n/12 com-po-nen-tes, así co-mo con la na-tu-ra-le-za de es-tos úl-ti-mos. Un sis-te-ma con un nú-me-ro ex-tre-ma-da-men-te
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--199
+Underfull \hbox (badness 10000) in paragraph at lines 197--200
 
  []
 
 [36] [37]
-Underfull \hbox (badness 10000) in paragraph at lines 244--249
+Underfull \hbox (badness 10000) in paragraph at lines 245--250
 
  []
 
 [38] [39]
-Overfull \hbox (1.01657pt too wide) in paragraph at lines 310--314
+Overfull \hbox (1.01657pt too wide) in paragraph at lines 311--315
 \T1/cmr/m/n/12 en-te-le-quia, o \T1/cmr/m/it/12 élan vi-tal\T1/cmr/m/n/12 , o cam-po mor-fo-ge-né-ti-co ex-terno a los com-po-nen-tes. En re-su-men, la for-ma-ción
  []
 
@@ -1071,17 +1064,17 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 47437 strings out of 474486
- 1299867 string characters out of 5743756
+ 47433 strings out of 474486
+ 1299813 string characters out of 5743756
  2105681 words of memory out of 5000000
- 69118 multiletter control sequences out of 15000+600000
+ 69114 multiletter control sequences out of 15000+600000
  576754 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,11n,100p,1672b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eufm10.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (44 pages, 445522 bytes).
+ <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eufm10.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (44 pages, 439804 bytes).
 PDF statistics:
- 661 PDF objects out of 1000 (max. 8388607)
+ 644 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

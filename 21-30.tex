@@ -1,7 +1,10 @@
+
+%------------------------------------------------------------------------------------------------
+%PAGINA 21
 \fancyhf{}
 \fancyhead[r]{\thepage}
 \begin{center}
-{\fontsize{16}{18}\selectfont \textbf{SISTEMA}}
+{\fontsize{13}{16}\selectfont \textbf{SISTEMA}}
 \end{center}
 \vspace{0.5cm}
 
@@ -24,12 +27,14 @@ El concepto de espacio de estados puede utilizarse para aclarar el de sistema. E
     \caption*{Fig. 1.5. El \textbf{espacio de estados legal} $\mathcal{S}_L(K)$ de los sistemas de tipo $K$ es un subconjunto del producto cartesiano de los rangos de los componentes de la función de estado. Solo dos de esos componentes, $F_i$ y $F_j$, están representados aquí. $F(\sigma) = \langle F_i(\sigma), F_j(\sigma) \rangle$ es un estado (realmente) posible de un sistema particular del tipo dado. A medida que el tiempo 'pasa', la punta de $F(\sigma)$ se mueve dentro de $\mathcal{S}_L(K)$.}
 \end{figure}
 }
-%22
+
+%------------------------------------------------------------------------------------------------
+%PAGINA 22
 \newpage
 \fancyhf{}
 \fancyhead[l]{\thepage}
 \begin{center}
-{\fontsize{16}{18}\selectfont \textbf{CAPÍTULO I}}
+{\fontsize{13}{16}\selectfont \textbf{CAPÍTULO I}}
 \end{center}
 \vspace{0.5cm}
 
@@ -41,12 +46,14 @@ El concepto de espacio de estados puede utilizarse para aclarar el de sistema. E
 \\
 No se supone que las funciones $g$ y $g'$ que aparecen en la Figura 1.6 sean arbitrarias: deben ser \textbf{legales} si queremos permitir solo eventos legales y descartar los ilegales, es decir, milagros. En otras palabras, la función $g$ que aparece en la representación del evento $e = \langle s, s', g \rangle$ debe ser \textbf{compatible con las leyes} del sistema o sistemas en cuestión. Equivalentemente: un evento o proceso legal que ocurre en un sistema de tipo $K$, con puntos finales $s$ y $s'$, es representable por una terna $\langle s, s', g \rangle$, donde $g: \mathcal{S}_L(K) \rightarrow \mathcal{S}_L(K)$ es compatible con las leyes de los sistemas $K$. Si se ignoran los estados intermedios entre los puntos finales de los procesos, nos quedan flechas o pares ordenados $\langle s, s' \rangle \in \mathcal{S}_L(K) \times \mathcal{S}_L(K)$. La colección de todos estos pares de estados, es decir, el conjunto de todos los \textbf{eventos netos} (para un $g$ dado), constituye el \textbf{espacio de eventos} de los sistemas $K$ (para $g$). Símbolo:
 }
-%23 
+
+%------------------------------------------------------------------------------------------------
+%PAGINA 23
 \newpage
 \fancyhf{}
 \fancyhead[r]{\thepage}
 \begin{center}
-{\fontsize{16}{18}\selectfont \textbf{SISTEMA}}
+{\fontsize{13}{16}\selectfont \textbf{SISTEMA}}
 \end{center}
 \vspace{0.5cm}
 
@@ -75,12 +82,14 @@ Dado que haremos un amplio uso de la \textbf{representación del espacio de esta
 \\\\
 (vii) para un sistema en un entorno dado, y relativo a un-
 }
-%24
+
+%------------------------------------------------------------------------------------------------
+%PAGINA 24
 \newpage
 \fancyhf{}
 \fancyhead[l]{\thepage}
 \begin{center}
-{\fontsize{16}{18}\selectfont \textbf{CAPÍTULO I}}
+{\fontsize{13}{16}\selectfont \textbf{CAPÍTULO I}}
 \end{center}
 \vspace{0.5cm}
 
@@ -95,19 +104,23 @@ $$ h(x) = \{(t, \mathbf{F}(t)) \mid t \in \tau\}; $$
 $$ \mathcal{A}(x, y) = h(y \mid x) \setminus h(y). $$
 Un tratamiento detallado de estos conceptos se da en otra parte (Vol. 3, Cap. 5). A continuación, los utilizaremos para avanzar un puñado de principios generales concernientes a los sistemas.
 
-\section*{\textbf{3. ASUNCIONES BÁSICAS}}
+\begin{center}
+{\fontsize{13}{16}\selectfont \textbf{3. ASUNCIONES BÁSICAS}}
+\end{center}
 
 \subsection*{3.1. Cuestiones Estructurales}
 Hasta ahora solo hemos hecho algunas definiciones y asunciones semánticas, pero ninguna hipótesis sustantiva sobre la naturaleza de los sistemas. (El Teorema 1.1 sobre la existencia de sistemas y la no existencia de cosas extraviadas, así como el Corolario 1.1 sobre la apertura de los sistemas, se derivaron de nuestra definición de un sistema concreto junto con ciertos postulados generales sobre la naturaleza de las cosas, establecidos en el Volumen 3.) A continuación, apostaremos por un puñado de \textbf{asunciones básicas} concernientes a los sistemas de todo tipo, siendo las primeras ciertos postulados de índole estructural. Dado que estas asunciones se referirán a las transacciones de un sistema con su entorno, bien podemos definir los conceptos de \textbf{entrada} (*input*) y de \textbf{salida} (*output*) en términos más generales de lo que hicimos en la Sec. 2.1. Comenzamos entonces con la
 \\\\
 \textbf{DEFINICIÓN 1.10} Sea $\sigma$ un sistema con un entorno (inmediato) $\mathcal{E}(\sigma)$. Entonces
 }
-%25
+
+%------------------------------------------------------------------------------------------------
+%PAGINA 25
 \newpage
 \fancyhf{}
 \fancyhead[r]{\thepage}
 \begin{center}
-{\fontsize{16}{18}\selectfont \textbf{SISTEMA}}
+{\fontsize{13}{16}\selectfont \textbf{SISTEMA}}
 \end{center}
 \vspace{0.5cm}
 
@@ -136,12 +149,14 @@ Una segunda característica, igualmente omnipresente, de los sistemas concretos 
 $$ o: \mathbf{V}(\sigma) \longrightarrow \mathcal{E}_{\mathcal{A}}(\sigma) $$
 asigna a cada salida del sistema una acción ambiental, pero no a la inversa.
 }
-%26
+
+%------------------------------------------------------------------------------------------------
+%PAGINA 26
 \newpage
 \fancyhf{}
 \fancyhead[l]{\thepage}
 \begin{center}
-{\fontsize{16}{18}\selectfont \textbf{CAPÍTULO I}}
+{\fontsize{13}{16}\selectfont \textbf{CAPÍTULO I}}
 \end{center}
 \vspace{0.5cm}
 
@@ -168,12 +183,14 @@ Cerramos esta subsección con un conjunto de principios generales que se enuncia
 
 Hasta aquí nuestras asunciones estructurales generales. Echemos ahora un vistazo a los sistemas desde una perspectiva evolutiva.
 }
-%27
+
+%------------------------------------------------------------------------------------------------
+%PAGINA 27
 \newpage
 \fancyhf{}
 \fancyhead[r]{\thepage}
 \begin{center}
-{\fontsize{16}{18}\selectfont \textbf{SISTEMA}}
+{\fontsize{13}{16}\selectfont \textbf{SISTEMA}}
 \end{center}
 \vspace{0.5cm}
 
@@ -197,12 +214,14 @@ Los procesos de ensamblaje pueden ser naturales o artificiales, y los de este ú
     % Aquí se insertaría el código TikZ para la Figura 1.7
     \caption*{Fig. 1.7. Ensamblaje de un sistema a partir de unidades previamente desconectadas, ya sea directamente o por etapas.}
 \end{figure}
-%28
+
+%------------------------------------------------------------------------------------------------
+%PAGINA 28
 \newpage
 \fancyhf{}
 \fancyhead[l]{\thepage}
 \begin{center}
-{\fontsize{16}{18}\selectfont \textbf{CAPÍTULO I}}
+{\fontsize{13}{16}\selectfont \textbf{CAPÍTULO I}}
 \end{center}
 \vspace{0.5cm}
 
@@ -221,12 +240,14 @@ Sin embargo, el autoensamblaje ocurre en todos los niveles y de diversas maneras
 
 \textbf{Observación 3} Ciertamente, un sistema puede formarse por la descomposición de algún supersistema. Sin embargo, esto no es un contraejemplo a nuestro postulado, que solo requiere que el sistema original
 }
-%29
+
+%------------------------------------------------------------------------------------------------
+%PAGINA 29
 \newpage
 \fancyhf{}
 \fancyhead[r]{\thepage}
 \begin{center}
-{\fontsize{16}{18}\selectfont \textbf{SISTEMA}}
+{\fontsize{13}{16}\selectfont \textbf{SISTEMA}}
 \end{center}
 \vspace{0.5cm}
 
@@ -245,11 +266,14 @@ En resumen, $P_x(t)$ es la colección de propiedades de la cosa $x$ en el moment
 
 Ahora sean $t$ y $t'$ dos instantes distintos, tales que $t$ precede a $t'$. Los valores correspondientes de $P_x$ son, por supuesto, $P_x(t)$ y $P_x(t')$. Si estos dos conjuntos de propiedades de $x$ son el mismo, entonces la cosa no ha cambiado \textbf{cualitativamente}. Si son diferentes, la cosa ha ganado o perdido algunas propiedades. Si ocurre esto último, se dirá que las propiedades recién adquiridas son \textbf{emergentes} en relación con la cosa dada, aunque también puedan ser poseídas por otras cosas. En resumen, establecemos la
 }
+
+%------------------------------------------------------------------------------------------------
+%PAGINA 30
 \newpage
 \fancyhf{}
 \fancyhead[l]{\thepage}
 \begin{center}
-{\fontsize{16}{18}\selectfont \textbf{CAPÍTULO I}}
+{\fontsize{13}{16}\selectfont \textbf{CAPÍTULO I}}
 \end{center}
 \vspace{0.5cm}
 
