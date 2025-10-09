@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.6)  7 OCT 2025 23:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.6)  8 OCT 2025 21:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -571,7 +571,7 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 ) (main.aux (introduccion.aux)
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
- (11-20.aux) (21-30.aux) (31-40.aux))
+ (11-20.aux) (21-30.aux) (31-40.aux) (41-44.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -1029,10 +1029,37 @@ Overfull \hbox (1.01657pt too wide) in paragraph at lines 310--314
 \T1/cmr/m/n/12 en-te-le-quia, o \T1/cmr/m/it/12 élan vi-tal\T1/cmr/m/n/12 , o cam-po mor-fo-ge-né-ti-co ex-terno a los com-po-nen-tes. En re-su-men, la for-ma-ción
  []
 
-) [40] (main.aux (introduccion.aux)
+) [40]
+\openout2 = `41-44.aux'.
+
+ (41-44.tex
+Overfull \hbox (22.37166pt too wide) in paragraph at lines 12--15
+\T1/cmr/m/n/12 gru-pos en nom-bre del bien del to-do o sis-te-ma su-pe-rior, en par-ti-cu-lar el es-ta-blish-ment económico-político,
+ []
+
+
+Overfull \hbox (18.0057pt too wide) in paragraph at lines 21--27
+\T1/cmr/m/n/12 sis-te-mas. Con-si-de-re el cé-le-bre aun-que po-co com-pren-di-do ejem-plo de una lla-ma-da iden-ti-dad con-tin-gen-te,
+ []
+
+[41
+
+
+
+]
+Overfull \hbox (9.29225pt too wide) in paragraph at lines 54--57
+\T1/cmr/m/n/12 con-ti-nuos, y de la óp-ti-ca geo-mé-tri-ca a la óp-ti-ca on-du-la-to-ria. (Las re-duc-cio-nes in-ver-sas son im-po-si-bles.)
+ []
+
+
+Overfull \hbox (0.23364pt too wide) in paragraph at lines 63--65
+[]\T1/cmr/m/n/12 Nótese que no es-ta-mos afir-man-do que las pro-pie-da-des del agua, o de cual-quier otro ma-cro-sis-te-ma,
+ []
+
+[42] [43]) [44] (main.aux (introduccion.aux)
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
- (11-20.aux) (21-30.aux) (31-40.aux))
+ (11-20.aux) (21-30.aux) (31-40.aux) (41-44.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -1044,17 +1071,17 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 47412 strings out of 474486
- 1299229 string characters out of 5743756
+ 47437 strings out of 474486
+ 1299867 string characters out of 5743756
  2105681 words of memory out of 5000000
- 69100 multiletter control sequences out of 15000+600000
+ 69118 multiletter control sequences out of 15000+600000
  576754 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,11n,100p,1672b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\jesus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eufm10.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (40 pages, 433051 bytes).
+Output written on main.pdf (44 pages, 445522 bytes).
 PDF statistics:
- 644 PDF objects out of 1000 (max. 8388607)
+ 661 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
