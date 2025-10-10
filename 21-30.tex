@@ -23,7 +23,7 @@ El concepto de espacio de estados puede utilizarse para aclarar el de sistema. E
 
 \begin{figure}[h!]
     \centering
-    % Aquí iría el código TikZ o la imagen para la Figura 1.5
+    \includegraphics[width=0.6\textwidth]{imagenes/figura1.5.png}
     \caption*{Fig. 1.5. El \textbf{espacio de estados legal} $\mathcal{S}_L(K)$ de los sistemas de tipo $K$ es un subconjunto del producto cartesiano de los rangos de los componentes de la función de estado. Solo dos de esos componentes, $F_i$ y $F_j$, están representados aquí. $F(\sigma) = \langle F_i(\sigma), F_j(\sigma) \rangle$ es un estado (realmente) posible de un sistema particular del tipo dado. A medida que el tiempo 'pasa', la punta de $F(\sigma)$ se mueve dentro de $\mathcal{S}_L(K)$.}
 \end{figure}
 }
@@ -60,7 +60,7 @@ No se supone que las funciones $g$ y $g'$ que aparecen en la Figura 1.6 sean arb
 {\fontsize{13}{15}\selectfont
 \begin{figure}[h!]
     \centering
-    % Aquí iría el código TikZ o la imagen para la Figura 1.6
+    \includegraphics[width=0.6\textwidth]{imagenes/figura1.6.png}
     \caption*{Fig. 1.6. Dos procesos diferentes que resultan en el mismo cambio neto. El cambio neto del estado $s$ al estado $s'$ puede representarse como el par ordenado (o flecha) $\langle s, s' \rangle$. Dado que el cambio a lo largo de la curva $g$ puede ser distinto del cambio a lo largo de la curva $g'$, $g \neq g'$, debemos representar los eventos (o procesos) completos mediante $\langle s, s', g \rangle$ y $\langle s, s', g' \rangle$, respectivamente.}
 \end{figure}
 $$ \mathcal{E}(K) \subseteq \mathcal{S}_L(K) \times \mathcal{S}_L(K). $$En general, la inclusión es propia: no todas las transiciones de estado son \textbf{legales}.
@@ -80,21 +80,7 @@ Dado que haremos un amplio uso de la \textbf{representación del espacio de esta
 \\\\
 (vi) la colección de todos los eventos (legales) realmente posibles que ocurren en sistemas de tipo $K$ es el \textbf{espacio de eventos} de $K$, o $\mathcal{E}_L(K)$ para abreviar;
 \\\\
-(vii) para un sistema en un entorno dado, y relativo a un-
-}
-
-%------------------------------------------------------------------------------------------------
-%PAGINA 24
-\newpage
-\fancyhf{}
-\fancyhead[l]{\thepage}
-\begin{center}
-{\fontsize{13}{16}\selectfont \textbf{CAPÍTULO I}}
-\end{center}
-\vspace{0.5cm}
-
-{\fontsize{13}{15}\selectfont
-... marco de referencia dado, la función de estado a menudo toma la forma de una función dependiente del tiempo $\mathbf{F}: \mathcal{T} \rightarrow \mathbb{R}^n$, donde $\mathcal{T} \subseteq \mathbb{R}$ es el conjunto de instantes relativos al marco dado;
+(vii) para un sistema en un entorno dado, y relativo a un marco de referencia dado, la función de estado a menudo toma la forma de una función dependiente del tiempo $\mathbf{F}: \mathcal{T} \rightarrow \mathbb{R}^n$, donde $\mathcal{T} \subseteq \mathbb{R}$ es el conjunto de instantes relativos al marco dado;
 \\\\
 (viii) Si $\mathbf{F}: \mathcal{T} \rightarrow \mathbb{R}^n$, entonces la totalidad de los procesos que ocurren en un sistema $x$ de tipo $K$ durante el intervalo de tiempo $\tau \subseteq \mathcal{T}$ es representable por el conjunto de estados en los que se encuentra $x$ durante $\tau$:
 $$ \mathbf{n}(x, \tau) = \{\mathbf{F}(t) \mid t \in \tau\}; $$
@@ -112,6 +98,8 @@ Un tratamiento detallado de estos conceptos se da en otra parte (Vol. 3, Cap. 5)
 Hasta ahora solo hemos hecho algunas definiciones y asunciones semánticas, pero ninguna hipótesis sustantiva sobre la naturaleza de los sistemas. (El Teorema 1.1 sobre la existencia de sistemas y la no existencia de cosas extraviadas, así como el Corolario 1.1 sobre la apertura de los sistemas, se derivaron de nuestra definición de un sistema concreto junto con ciertos postulados generales sobre la naturaleza de las cosas, establecidos en el Volumen 3.) A continuación, apostaremos por un puñado de \textbf{asunciones básicas} concernientes a los sistemas de todo tipo, siendo las primeras ciertos postulados de índole estructural. Dado que estas asunciones se referirán a las transacciones de un sistema con su entorno, bien podemos definir los conceptos de \textbf{entrada} (*input*) y de \textbf{salida} (*output*) en términos más generales de lo que hicimos en la Sec. 2.1. Comenzamos entonces con la
 \\\\
 \textbf{DEFINICIÓN 1.10} Sea $\sigma$ un sistema con un entorno (inmediato) $\mathcal{E}(\sigma)$. Entonces
+}
+
 }
 
 %------------------------------------------------------------------------------------------------
@@ -168,7 +156,10 @@ Las hipótesis anteriores son principios metafísicos típicos en la medida en q
 La función de selección de entrada $i$ y la función de selección de salida $o$ se unen en la
 
 \textbf{DEFINICIÓN 1.11} La función $f$ que se compone con la función de selección de salida $o$ de un sistema para producir su función de selección de entrada $i$, es decir, tal que $i = f \circ o$, se llama \textbf{función de transferencia} (o \textbf{transductora}) $f: \mathbf{U}(\sigma) \longrightarrow \mathbf{V}(\sigma)$ de $\sigma$:
-$$ i = f \circ o. $$
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.4\textwidth]{imagenes/definition1.11.png}
+\end{figure}
 
 \textbf{Ejemplo} La retina transforma (o mapea o codifica) los estímulos luminosos en señales nerviosas.
 
@@ -210,7 +201,7 @@ Los procesos de ensamblaje pueden ser naturales o artificiales, y los de este ú
 
 \begin{figure}[h!]
     \centering
-
+    \includegraphics[width=0.7\textwidth]{imagenes/figura1.7.png}
     % Aquí se insertaría el código TikZ para la Figura 1.7
     \caption*{Fig. 1.7. Ensamblaje de un sistema a partir de unidades previamente desconectadas, ya sea directamente o por etapas.}
 \end{figure}
